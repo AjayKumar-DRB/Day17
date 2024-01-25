@@ -1,0 +1,12 @@
+#box>div{
+    margin: 10px 0;
+    text-transform: capitalize;
+}
+
+.card-body>*:not(button){
+    padding-top: 10px;
+}
+
+.card-body>*:not(p){
+    margin-top: 10px;
+}
